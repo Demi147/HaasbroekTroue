@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/HaasbroekTroue/static/css/main.77ec204a.chunk.css",
-    "main.js": "/HaasbroekTroue/static/js/main.93098c9c.chunk.js",
-    "main.js.map": "/HaasbroekTroue/static/js/main.93098c9c.chunk.js.map",
+    "main.css": "/HaasbroekTroue/static/css/main.312ae292.chunk.css",
+    "main.js": "/HaasbroekTroue/static/js/main.618d392a.chunk.js",
+    "main.js.map": "/HaasbroekTroue/static/js/main.618d392a.chunk.js.map",
     "runtime-main.js": "/HaasbroekTroue/static/js/runtime-main.83c796fa.js",
     "runtime-main.js.map": "/HaasbroekTroue/static/js/runtime-main.83c796fa.js.map",
-    "static/js/2.8f3105cb.chunk.js": "/HaasbroekTroue/static/js/2.8f3105cb.chunk.js",
-    "static/js/2.8f3105cb.chunk.js.map": "/HaasbroekTroue/static/js/2.8f3105cb.chunk.js.map",
+    "static/js/2.92c14594.chunk.js": "/HaasbroekTroue/static/js/2.92c14594.chunk.js",
+    "static/js/2.92c14594.chunk.js.map": "/HaasbroekTroue/static/js/2.92c14594.chunk.js.map",
     "static/js/3.bf821083.chunk.js": "/HaasbroekTroue/static/js/3.bf821083.chunk.js",
     "static/js/3.bf821083.chunk.js.map": "/HaasbroekTroue/static/js/3.bf821083.chunk.js.map",
     "index.html": "/HaasbroekTroue/index.html",
-    "static/css/main.77ec204a.chunk.css.map": "/HaasbroekTroue/static/css/main.77ec204a.chunk.css.map",
-    "static/js/2.8f3105cb.chunk.js.LICENSE.txt": "/HaasbroekTroue/static/js/2.8f3105cb.chunk.js.LICENSE.txt",
+    "static/css/main.312ae292.chunk.css.map": "/HaasbroekTroue/static/css/main.312ae292.chunk.css.map",
+    "static/js/2.92c14594.chunk.js.LICENSE.txt": "/HaasbroekTroue/static/js/2.92c14594.chunk.js.LICENSE.txt",
     "static/media/WhatsApp Image 2020-12-13 at 6.28.55 PM.9fd10088.jpeg": "/HaasbroekTroue/static/media/WhatsApp Image 2020-12-13 at 6.28.55 PM.9fd10088.jpeg",
     "static/media/WhatsApp Image 2020-12-13 at 6.28.56 PM (1).29c47865.jpeg": "/HaasbroekTroue/static/media/WhatsApp Image 2020-12-13 at 6.28.56 PM (1).29c47865.jpeg",
     "static/media/WhatsApp Image 2020-12-13 at 6.28.56 PM.aef669e0.jpeg": "/HaasbroekTroue/static/media/WhatsApp Image 2020-12-13 at 6.28.56 PM.aef669e0.jpeg",
@@ -24,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.83c796fa.js",
-    "static/js/2.8f3105cb.chunk.js",
-    "static/css/main.77ec204a.chunk.css",
-    "static/js/main.93098c9c.chunk.js"
+    "static/js/2.92c14594.chunk.js",
+    "static/css/main.312ae292.chunk.css",
+    "static/js/main.618d392a.chunk.js"
   ]
 }
